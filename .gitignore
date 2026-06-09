@@ -3,6 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
 .chunks/
+.idea/
 
 # Тяжелые форматы данных (датасеты)
 *.csv
