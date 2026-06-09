@@ -1,0 +1,25 @@
+# Весь кэш Python и Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.chunks/
+
+# Тяжелые форматы данных (датасеты)
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.pkl
+*.pickle
+*.sqlite
+
+# Папки с данными и обученными моделями
+data/
+models/
+saved_models/
+
+# Виртуальные окружения и настройки
+venv/
+.venv/
+env/
+.env
